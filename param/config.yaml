@@ -1,0 +1,4 @@
+%YAML:1.0
+serial.port: /dev/fdilink_ahrs
+serial.baudrate: 921600
+serial.deviceType: 1

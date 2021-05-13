@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "eigen": "cpp",
+        "dense": "cpp",
+        "core": "cpp",
+        "thread": "cpp",
+        "iostream": "cpp",
+        "tuple": "cpp"
+    }
+}
