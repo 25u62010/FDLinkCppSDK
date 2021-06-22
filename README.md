@@ -5,4 +5,5 @@
 ## 使用方法
 <br>cd build</br>
 <br> cmake ..</br>
+<br> make</br>
 <br>./fdilink_ahrs_test</br>
